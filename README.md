@@ -1,6 +1,6 @@
 # FeedReader Testing
 
-Project 5 of the [Udacity Front-End Web Developer Nanodegree program](https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001).
+**Fifth project for the [Udacity Front-End Web Developer Nanodegree](https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001)(offered as part of the [EMEA Google Developer Scholarship Program 2017-2018](https://www.udacity.com/google-scholarships)).**
 
 ## Project Overview
 
@@ -12,15 +12,11 @@ You can find the Udacity starter code [here](https://github.com/udacity/frontend
 
 ## To Get Started
 
-* Clone or download the project on your machine.
+* Clone or download this repository on your machine.
 * Open the `index.html` file with a browser of your choice.
 * The Jasmine test suites are displayed at the bottom of the webpage. The green color indicates a passing test, whereas red indicates a failing test.
 
-## Contributing
+or
 
-This repository contains the files of the 5th project for [Udacity Front-End Web Developer Nanodegree Program](https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001) as they were submitted for review. Hence, pull requests will most likely not be accepted.
-
-## License
-
-None
+* Open the [live version](https://vyel.github.io/FEND-Feed-Reader)
 
